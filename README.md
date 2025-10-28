@@ -3,7 +3,7 @@ Website for Lab8
 <h1> Introduction: </h1>
 <b> My name is Mohsen Alajmi. I study Cybersecurity in University of Limerick.</b>
 
-I have many hobbies and intrests. For Example:
+<h3> I have many hobbies and intrests. For Example: </h3>
 <ul>
 <li> 1- Playing football</li>
 <li> 2- Making arabic coffee and tea </li>
