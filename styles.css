@@ -6,29 +6,3 @@ h1 {
   color: blue;
   font-size: 200%;
 }
-h2 { 
-    font-size: 170%;
-}
-p {
-  color: red;
-  font-size: 140%;
-}
-li {
-    color: red
-}
-li { font-size: 140%;
-}
-table {
-    color: rgb(0, 0, 0)
-    
-}
-table { 
-    font-size: 150%;
-}
-table, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
-}
-th, td {
-  background-color: #4594f4;
-}
