@@ -6,7 +6,7 @@
 <h3> Birthday: </h3> 
 <p> 26 July 2005 </p>
 
-<h3> Study:  </h3>
+<h3> Study: </h3>
 <p> Cybersecurity and IT Forensics </p>
 
 <h3> University: </h3>
