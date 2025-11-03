@@ -39,11 +39,11 @@
 
 
 <h2> Introduction: </h2>
-<p><b> I am Mohsen Alajmi a kuwaiti student in Limerick. I live in AL Mutlaa city in Kuwait. My family are consist of twelve members, seven girls and three brothers. I am 20 years old and My order in our family is the second. because I have older sister she is 23 years old. All my family are good in their study so this help me to get high grades on school and University of Limerick. I have amazing parents they always encourage me to continue working hard. However, I am living far from them as they are in Kuwait and I am living in Ireland. </b></p>
+<p> I am Mohsen Alajmi a kuwaiti student in Limerick. I live in AL Mutlaa city in Kuwait. My family are consist of twelve members, seven girls and three brothers. I am 20 years old and My order in our family is the second. because I have older sister she is 23 years old. All my family are good in their study so this help me to get high grades on school and University of Limerick. I have amazing parents they always encourage me to continue working hard. However, I am living far from them as they are in Kuwait and I am living in Ireland. </p>
 
 
 <table>
- <b><tr>
+ <tr>
     <th> Academic stage </th>
     <th> Where </th>
     <th> when </th>
@@ -72,7 +72,7 @@
     <td> Year 1 </td>
     <td> University of Limerick </td>
     <td> 2025-2026 </td>
-  </tr></b>
+  </tr>
 </table>
 
 
