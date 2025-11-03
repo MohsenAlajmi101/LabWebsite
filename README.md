@@ -2,8 +2,9 @@
 <html>
 <head>
 <style>
-background-color = red;
-
+h1 {
+  background-color = red;
+}
   
 </style>
  
