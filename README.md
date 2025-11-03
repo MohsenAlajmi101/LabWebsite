@@ -1,6 +1,6 @@
 
  
- <h1 style="color blue"> Mohsen Alajmi </h1>
+ <h1 style="background-color:rgb(101, 178, 255);"> Mohsen Alajmi </h1>
  
 <h3> Full Name: </h3> 
 <p> Mohsen Faleh Mohsen Mohammed Alajmi </p>
