@@ -22,9 +22,8 @@
 <p> Muslim </p>
 
 IMAGE
-</head> 
 
-<body>
+
 <h2> Introduction: </h2>
 <p> </p>
 
