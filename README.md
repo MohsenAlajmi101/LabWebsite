@@ -34,8 +34,11 @@ IMAGE
 
 <h3> Foundation Year: </h3>
 <img src="https://www.dcu.ie/sites/default/files/styles/user_defined/public/media/2018/08/11/why_dcu_connected.jpg.webp?itok=0uQb4Kjd" style=" width:20cm; height:10cm;">
-<a href="https://www.chelseafc.com/en" target="_blank"> Chelsea Club Website </a>
+<a href="https://www.dcu.ie/" target="_blank"> Dublin City University Website </a>
 
 <h3> Year 1: </h3>
 <img src="https://www.cpdcourses.ie/wp-content/uploads/2022/11/university-limerick-cpd-courses.jpg" style=" width:20cm; height:10cm;">
-<a href="https://www.chelseafc.com/en" target="_blank"> Chelsea Club Website </a>
+<a href="https://www.ul.ie/" target="_blank"> University of Limerick Website </a>
+
+
+
