@@ -6,6 +6,6 @@ h1 {
   color: blue;
 }
 
-tr:nth-child(even) {
-  background-color: #D6EEEE;
+h2 { 
+    font-size: 170%;
 }
