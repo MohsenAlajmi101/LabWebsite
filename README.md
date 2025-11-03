@@ -1,4 +1,6 @@
- <h1> Mohsen Alajmi </h1>
+
+ 
+ <h1 style="color blue"> Mohsen Alajmi </h1>
  
 <h3> Full Name: </h3> 
 <p> Mohsen Faleh Mohsen Mohammed Alajmi </p>
@@ -6,7 +8,7 @@
 <h3> Birthday: </h3> 
 <p> 26 July 2005 </p>
 
-<h3> Study: </h3>
+<h3> Major: </h3>
 <p> Cybersecurity and IT Forensics </p>
 
 <h3> University: </h3>
