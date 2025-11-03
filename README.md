@@ -1,10 +1,4 @@
-<style>
-body {background-color: powderblue;}
-h1   {color: powderblue;}
-h2   {color: powderblue;}
-h3   {color: powderblue;}
-p    {color: powderblue;}
-</style>
+
  
  <h1> Mohsen Alajmi </h1>
  
