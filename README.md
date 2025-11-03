@@ -1,6 +1,7 @@
 <head>
   <link rel="stylesheet" href="styles.css">
 </head> 
+<body> 
 <h1> Mohsen Alajmi </h1>
 
 <h2>  Outline: </h2>
@@ -88,4 +89,4 @@
 <a href="https://www.ul.ie/" target="_blank"> University of Limerick Website </a>
 
 
-
+</body>
