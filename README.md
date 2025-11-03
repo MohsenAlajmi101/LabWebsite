@@ -1,5 +1,11 @@
-
- <body> 
+<style>
+body {background-color: powderblue;}
+h1   {color: powderblue;}
+h2   {color: powderblue;}
+h3   {color: powderblue;}
+p    {color: powderblue;}
+</style>
+ 
  <h1> Mohsen Alajmi </h1>
  
 <h3> Full Name: </h3> 
@@ -40,6 +46,6 @@ IMAGE
 <h3> Year 1: </h3>
 <img src="https://www.cpdcourses.ie/wp-content/uploads/2022/11/university-limerick-cpd-courses.jpg" style=" width:20cm; height:10cm;">
 <a href="https://www.ul.ie/" target="_blank"> University of Limerick Website </a>
-</body>
+
 
 
