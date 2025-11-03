@@ -31,5 +31,5 @@ IMAGE
 <img src="https://www.teacherhorizons.com/static/mediav2/schools/3045/images/924975_main.jpeg" style=" width:20cm; height:10cm;">
 
 <h3> Foundation Year: </h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fafta.ie%2Fwhy-afta%2Fdublin-city-university%2F&psig=AOvVaw3rosti0uePyGcchxpzEnkC&ust=1762218045841000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDchv7j1JADFQAAAAAdAAAAABAE" style=" width:20cm; height:10cm;">
+<img src="https://www.dcu.ie/sites/default/files/styles/user_defined/public/media/2018/08/11/why_dcu_connected.jpg.webp?itok=0uQb4Kjd" style=" width:20cm; height:10cm;">
 
