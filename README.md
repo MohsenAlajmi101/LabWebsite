@@ -1,4 +1,6 @@
-
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head> 
 <h1> Mohsen Alajmi </h1>
 
 <h2>  Outline: </h2>
