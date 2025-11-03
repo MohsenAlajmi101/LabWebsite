@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-h1 {
-  background-color = red;
-}
-  
-</style>
  
 <h1> Mohsen Alajmi </h1>
  
@@ -48,4 +42,4 @@ IMAGE
 
 </body>
 </html>
-</body>
+
