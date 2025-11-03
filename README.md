@@ -30,10 +30,12 @@ IMAGE
 
 <h3> My School: </h3>
 <img src="https://www.teacherhorizons.com/static/mediav2/schools/3045/images/924975_main.jpeg" style=" width:20cm; height:10cm;">
+<a href="https://kbs2.edu.kw/" target="_blank"> Kuwait Bilingual School Website </a>
 
 <h3> Foundation Year: </h3>
 <img src="https://www.dcu.ie/sites/default/files/styles/user_defined/public/media/2018/08/11/why_dcu_connected.jpg.webp?itok=0uQb4Kjd" style=" width:20cm; height:10cm;">
+<a href="https://www.chelseafc.com/en" target="_blank"> Chelsea Club Website </a>
 
 <h3> Year 1: </h3>
 <img src="https://www.cpdcourses.ie/wp-content/uploads/2022/11/university-limerick-cpd-courses.jpg" style=" width:20cm; height:10cm;">
-
+<a href="https://www.chelseafc.com/en" target="_blank"> Chelsea Club Website </a>
