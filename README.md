@@ -1,9 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <link rel="stylesheet" href="styles.css">
+<style>
+background-color = red;
+
+  
+</style>
  
-<h1> Mohsen Alajmi</h1>
+<h1> Mohsen Alajmi </h1>
  
 <h3> Full Name: </h3> 
 <p> Mohsen Faleh Mohsen Mohammed Alajmi </p>
