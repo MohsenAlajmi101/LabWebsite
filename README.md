@@ -5,7 +5,7 @@
 <body> 
 <h1> Mohsen Alajmi </h1>
 
-<h1>  Outline: </h1>
+<h2>  Outline: </h2>
   <ul> 
     <li> Personal Details </li>
     <li> Introduction </li>
@@ -14,7 +14,7 @@
     <li> University </li>
 </ul>
 
-<h1> Personal Details: </h1>
+<h2> Personal Details: </h2>
 <h3> Full Name: </h3> 
 <p> Mohsen Faleh Mohsen Mohammed Alajmi </p>
 
