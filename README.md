@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="styles.css">
+ 
 <h1> Mohsen Alajmi</h1>
  
 <h3> Full Name: </h3> 
@@ -22,8 +27,9 @@
 <p> Muslim </p>
 
 IMAGE
+</head> 
 
-
+<body>
 <h2> Introduction: </h2>
 <p> </p>
 
@@ -33,3 +39,8 @@ IMAGE
 <h3> Foundation Year: </h3>
 <img src="https://www.dcu.ie/sites/default/files/styles/user_defined/public/media/2018/08/11/why_dcu_connected.jpg.webp?itok=0uQb4Kjd" style=" width:20cm; height:10cm;">
 
+
+
+</body>
+</html>
+</body>
