@@ -1,6 +1,14 @@
 
 <h1> Mohsen Alajmi </h1>
 
+<h2>  Outline: </h2>
+  <ul> 
+    <li> Personal Details </li>
+    <li> Introduction </li>
+    <li> Table about my academic journey </li>
+    <li> School </li>
+    <li> University </li>
+</ul>
 
 <h2> Personal Details: </h2>
 <h3> Full Name: </h3> 
@@ -59,7 +67,7 @@
   </tr>
     <tr>
     <td> Year 1 </td>
-    <td> TUniversity of Limerick </td>
+    <td> University of Limerick </td>
     <td> 2025-2026 </td>
   </tr>
 </table>
