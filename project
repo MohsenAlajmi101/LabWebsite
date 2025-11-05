@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--the head section that contains metadata-->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Kuwait's 2035 Vision">
+        <title>Kuwait Vision</title>
+        <link rel="icon" href="images/favicon.ico">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <!--The body part that contains the visual part of the website-->
+    <body>
+        <header class="site-header container">
+            <div class="logo-container">
+                <img class="logo" src="images/logo.webp" alt="Kuwait vision Logo">
+                <h2 class="logo-title">Kuwait Vision</h2>
+            </div>
+            <nav>
+                <ul class="nav_links">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#aboutus">About</a></li>
+                    <li><a href="#vision">Vision</a></li>
+                </ul>
+            </nav>
+            <a class="button" href="#contactus">Contact</a>
+        </header>
+        <main id="main">
+            <div class="hero-section">
+                <img src="images/heroimg.jpg" alt="Hero image">
+            </div>
+            <h3 id="aboutus">About Us</h3>
+            <div class="about-us-container">
+               <article class="about-us-text">
+                <h4>Welcome</h4>
+                <p>This website talks about the <strong>Kuwait Vision</strong>. The <strong>Kuwait Vision 2035</strong>, officially called "<strong>New Kuwait</strong>", is the country's long-term national development plan aimed at transforming Kuwait into a <strong>regional financial, commercial,</strong> and <strong>cultural hub by the year 2035.</strong></p>
+               </article>
+               <section class="about-us-video">
+                <h4>Embeded youtube video on Kuwait Vision 2035</h4>
+                <iframe src="https://www.youtube.com/embed/dUe2R3abiRw?si=ECHYs2honEjO_6j-" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+               </section>
+            </div>
+            <h3 id="vision">Vision</h3>
+            <div class="vision-container">
+                
+                <section>
+                    <h4>Effective Government Administration</h4>
+                    <img src="images/governance.jpg" alt="Effective government administration">
+                    <audio controls>
+                        <source src="audio/soul-of-dubai-165180.mp3" type="audio/mpeg">
+                        your browser does not support the audio element
+                    </audio>
+                    <ol>
+                        <li>Modernize public sector management</li>
+                        <li>Increase transparency and efficiency in government institutions</li>
+                        <li>Improve e-governance and anti-corruption systems</li>
+                    </ol>
+                </section>
+                <section>
+                   <h4>Diverse and Sustainable Economy</h4>
+                   <img src="images/sustainable.jpg" alt="Diverse and sustainable economy">
+                   <audio controls>
+                    <source src="audio/escapism-modern-hip-hop-trap-by-semition-281077.mp3" type="audio/mpeg">
+                    your browser does not support audio
+                   </audio>
+                   <ol>
+                    <li>Encourage private sector growth and foreign investment.</li>
+                    <li>Develop non-oil industries such as finance, tourism, logistics, and renewable energy.</li>
+                   </ol>
+                </section>
+                <section>
+                    <h4>Infrastructure Development</h4>
+                    <img src="images/infrastructure.jpg" alt="Infrastructure development">
+                    <audio controls>
+                        <source src="audio/soul-of-dubai-165180.mp3" type="audio/mpeg">
+                        Your browser does not support audio
+                    </audio>
+                    <ol>
+                        <li>Build modern transport networks (e.g., metro, airport, ports).</li>
+                        <li>Expand smart cities and housing projects.</li>
+                        <li>Improve energy and water systems.</li>
+                    </ol>
+                </section>
+                 <section>
+                   <h4>Human Capital Development</h4>
+                   <img src="images/humancapital.jpg" alt="Human capital development">
+                   <audio controls>
+                    <source src="audio/escapism-modern-hip-hop-trap-by-semition-281077.mp3" type="audio/mpeg">
+                    your browser does not support audio
+                   </audio>
+                   <ol>
+                    <li>Reform education to align with labor market needs.</li>
+                    <li>Empower youth and women in the workforce</li>
+                    <li>Promote innovation and research.</li>
+                   </ol>
+                </section>
+            </div>
+            <div class="vision-container-two">
+                <section>
+                    <h4>Healthcare Excellence</h4>
+                    <img src="images/healthcare.jpg" alt="Healthcare excellence">
+                    <ol>
+                        <li>Upgrade medical facilities and services.</li>
+                        <li>Develop Kuwait into a regional center for healthcare.</li>
+                        <li>Focus on preventive health and lifestyle improvement.</li>
+                    </ol>
+                </section>
+                <section>
+                    <h4>Sustainable Living Environment</h4>
+                    <img src="images/environment.jpg" alt="Sustainable living environment">
+                    <ol>
+                        <li>Promote environmental protection and green energy.</li>
+                        <li>Improve waste management and air quality.</li>
+                        <li>Preserve natural resources and biodiversity.</li>
+                    </ol>
+                </section>
+                
+                 <section>
+                   <h4>Global Positioning</h4>
+                   <img src="images/global.jpg" alt="Global Positioning">
+                   <ol>
+                    <li>Strengthen Kuwait’s diplomatic, cultural, and economic ties.</li>
+                    <li>Enhance its regional and international influence.</li>
+                   </ol>
+                </section>
+            </div>
+            <h3 id="contactus">contact Us</h3>
+            <div class="contact-form">
+                <form name="myForm">
+                   <label for="fname">Name:</label>
+                   <input type="text" id="fname" name="fname" placeholder="Your Name" required>
+                   <label for="femail">Email:</label>
+                   <input type="email" id="femail" name="femail" placeholder="johndoe@email.com" required>
+                   <label for="message">Message:</label>
+                   <textarea id="message" name="message" placeholder="Your Message..." required></textarea>
+                   <input type="submit" value="Submit" onclick="validateform()">
+                </form>
+            </div>
+        </main>
+        <footer>
+            <div class="copyright"><strong>&copy;Kuwait Vision</strong></div>
+            <div>
+                <a href="#" class="fa fa-facebook"></a>
+                <a href="#" class="fa fa-twitter"></a>
+            </div>
+        </footer>
+
+        <script src="script/script.js" async defer></script>
+    </body>
+</html> 
